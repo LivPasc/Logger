@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\liviu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\liviu\\.nuget\\packages"
+    ]
+  }
+}
